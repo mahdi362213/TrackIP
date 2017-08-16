@@ -55,7 +55,7 @@ scrollMSG();
 
 			<div class="collapse navbar-collapse">
 				<ul class="nav navbar-nav navbar-left">
-					<li><a  class="smoothScroll" href="http://arian-sarooj.ir/">MainPage</a></li>
+					<li><a  class="smoothScroll" href="#something">MainPage</a></li>
 					<li><a href="#phone" class="smoothScroll">AboutUS</a></li>
 					<li><a href="#us" class="smoothScroll">ContactUS</a></li>
 					<li><a href="#pict" class="smoothScroll">JobsForHumanBeing</a></li>
